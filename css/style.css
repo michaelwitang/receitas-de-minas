@@ -1,0 +1,23 @@
+/* Reset básico */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Corpo da página */
+body {
+    font-family: ;
+}
+
+/* Cabeçalho */
+
+header {
+    background-color: #8b4513;
+    color: white;
+
+}
+
+h2 {
+    color: green;
+}
